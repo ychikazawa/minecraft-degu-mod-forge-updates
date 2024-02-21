@@ -1,0 +1,70 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/vanilla-degus",
+  "1.20.4": {
+    "1.5.2": "- Slightly increase degu's spawn rate. \n - Patched minor issue."
+  },
+  "1.20.2": {
+    "1.5.1": "- Supported Domestication Innovation.",
+    "1.5.0": "- Degus can get fat. \n - Degus can feel happiness. \n - Add Degu's Grace effect."
+  },
+  "1.20.1": {
+    "1.5.1": "- Supported Domestication Innovation.",
+    "1.5.0": "- Degus can get fat. \n - Degus can feel happiness. \n - Add Degu's Grace effect.",
+    "1.4.1": "- Add translation 繁體中文（台灣）",
+    "1.4.0": "- Add black & white colors. \n - Add fall resistance \n - Avoid fighting \n - Fix degu doesn't stop dancing in Client"
+  },
+  "1.20": {
+    "1.5.1": "- Supported Domestication Innovation.",
+    "1.5.0": "- Degus can get fat. \n - Degus can feel happiness. \n - Add Degu's Grace effect.",
+    "1.4.1": "- Add translation 繁體中文（台灣）",
+    "1.4.0": "- Add black & white colors. \n - Add fall resistance \n - Avoid fighting \n - Fix degu doesn't stop dancing in Client"
+  },
+  "1.19.4": {
+    "1.4.0": "- Add black & white colors. \n - Add fall resistance \n - Avoid fighting \n - Fix degu doesn't stop dancing in Client",
+    "1.3.2": " - Add Meadow & Stony Peaks to degu spawn biomes. \n - Dandelions, cacti, and a variety of seeds are now available to tempt and heal degus."
+  },
+  "1.19.3": {
+    "1.4.0": "- Add black & white colors. \n - Add fall resistance \n - Avoid fighting \n - Fix degu doesn't stop dancing in Client",
+    "1.3.2": " - Add Meadow & Stony Peaks to degu spawn biomes. \n - Dandelions, cacti, and a variety of seeds are now available to tempt and heal degus."
+  },
+  "1.19.2": {
+    "1.3.1": " - Fix InvocationTargetException:null error in the latest Forge version (at least 41.0.100 or later)."
+  },
+  "1.19.1": {
+    "1.3.1": " - Fix InvocationTargetException:null error in the latest Forge version (at least 41.0.100 or later)."
+  },
+  "1.19": {
+    "1.3.1": " - Fix InvocationTargetException:null error in the latest Forge version (at least 41.0.100 or later).",
+    "1.3.0": " - Add subtitles and some translations: English (US), German, Spanish, French, Italian, Japanese, Korean, Chinese Simplified, Classical Chinese. \n - Increase degu spawn rate in savanna plateau."
+  },
+  "1.18.2": {
+    "1.3.0": " - Add subtitles and some translations: English (US), German, Spanish, French, Italian, Japanese, Korean, Chinese Simplified, Classical Chinese. \n - Increase degu spawn rate in savanna plateau."
+  },
+  "1.18.1": {
+    "1.3.0": " - Add subtitles and some translations: English (US), German, Spanish, French, Italian, Japanese, Korean, Chinese Simplified, Classical Chinese. \n - Increase degu spawn rate in savanna plateau."
+  },
+  "1.17.1": {
+    "1.3.0": " - Add subtitles and some translations: English (US), German, Spanish, French, Italian, Japanese, Korean, Chinese Simplified, Classical Chinese. \n - Increase degu spawn rate in savanna plateau.",
+    "1.2.3": " - Fixed degu sounds not playing in Client.",
+    "1.2.2": " - Fixed EntityRecordListener error that may occur in a specific server environment.",
+    "1.2.0": " - Added dancing animation when jukebox is playing.  (And degus got a sense of rhythm!) \n - Reduced Degu spawn weight at Desert and Badlands. \n - Fixed not to spawn on water. \n - Updated Degu's footsteps \n - Fix an issue that world loading was extremely slow in biomes where degus can spawn in v1.2.0-beta",
+    "1.2.0-beta": " - Added dancing animation when jukebox is playing. (Note: In beta, degus don't have a sense of rhythm yet) \n - Reduced Degu spawn weight at Desert and Badlands. \n - Fixed not to spawn on water. \n - Updated Degu's footsteps",
+    "1.1.0": " - Added some degu colors. \n - Increased chance of eating grass."
+  },
+  "1.16.5": {
+    "1.3.0": " - Add subtitles and some translations: English (US), German, Spanish, French, Italian, Japanese, Korean, Chinese Simplified, Classical Chinese. \n - Increase degu spawn rate in savanna plateau. \n - Fixed degu sounds not playing in Client. \n - Fixed EntityRecordListener error that may occur in a specific server environment.",
+    "1.2.0": " - Added dancing animation when jukebox is playing. \n - Reduced Degu spawn weight at Desert and Badlands. \n - Fixed not to spawn on water. \n - Updated Degu's footsteps",
+    "1.1.0": " - Added some degu colors. \n - Increased chance of eating grass.",
+    "1.0.0": " - First release."
+  },
+  "promos": {
+    "1.18.2-latest": "1.3.0",
+    "1.18.2-recommended": "1.3.0",
+    "1.18.1-latest": "1.3.0",
+    "1.18.1-recommended": "1.3.0",
+    "1.17.1-latest": "1.3.0",
+    "1.17.1-recommended": "1.3.0",
+    "1.16.5-latest": "1.3.0",
+    "1.16.5-recommended": "1.3.0"
+  }
+}
