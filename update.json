@@ -1,5 +1,38 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/vanilla-degus",
+  "26.2": {
+    "1.7.0": "- Baby degus! Breeding now produces adorable baby degus with their own model and textures.",
+    "1.6.2": "- Spawn balance can now be tuned via config/vanilla_degus/spawn.json. \n - Degus can be tamed, fed, and healed with dry grass and dead bush. \n - Degus can eat a wider variety of plant-based foods. \n - Offspring can inherit a mix of their parents' collar colors. \n - Added more music discs degus can dance to. \n - Various fixes and adjustments."
+  },
+  "26.1": {
+    "1.7.0": "- Baby degus! Breeding now produces adorable baby degus with their own model and textures.",
+    "1.6.2": "- Spawn balance can now be tuned via config/vanilla_degus/spawn.json. \n - Degus can be tamed, fed, and healed with dry grass and dead bush. \n - Degus can eat a wider variety of plant-based foods. \n - Offspring can inherit a mix of their parents' collar colors. \n - Added more music discs degus can dance to. \n - Various fixes and adjustments."
+  },
+  "1.21.11": {
+    "1.6.2": "- Spawn balance can now be tuned via config/vanilla_degus/spawn.json. \n - Degus can be tamed, fed, and healed with dry grass and dead bush. \n - Degus can eat a wider variety of plant-based foods. \n - Offspring can inherit a mix of their parents' collar colors. \n - Added more music discs degus can dance to. \n - Various fixes and adjustments.",
+    "1.5.3": "- Updated for newer Minecraft versions."
+  },
+  "1.21.9": {
+    "1.5.3": "- Updated for newer Minecraft versions."
+  },
+  "1.21.6": {
+    "1.5.3": "- Updated for newer Minecraft versions."
+  },
+  "1.21.5": {
+    "1.5.3": "- Updated for newer Minecraft versions."
+  },
+  "1.21.4": {
+    "1.5.2": "- Slightly increase degu's spawn rate. \n - Patched minor issue."
+  },
+  "1.21.3": {
+    "1.5.2": "- Slightly increase degu's spawn rate. \n - Patched minor issue."
+  },
+  "1.21": {
+    "1.5.2": "- Slightly increase degu's spawn rate. \n - Patched minor issue."
+  },
+  "1.20.6": {
+    "1.5.2": "- Slightly increase degu's spawn rate. \n - Patched minor issue."
+  },
   "1.20.4": {
     "1.5.2": "- Slightly increase degu's spawn rate. \n - Patched minor issue."
   },
@@ -8,12 +41,14 @@
     "1.5.0": "- Degus can get fat. \n - Degus can feel happiness. \n - Add Degu's Grace effect."
   },
   "1.20.1": {
+    "1.6.2": "- Spawn balance can now be tuned via config/vanilla_degus/spawn.json. \n - Degus can be tamed, fed, and healed with dry grass and dead bush. \n - Degus can eat a wider variety of plant-based foods. \n - Offspring can inherit a mix of their parents' collar colors. \n - Added more music discs degus can dance to. \n - Various fixes and adjustments.",
     "1.5.1": "- Supported Domestication Innovation.",
     "1.5.0": "- Degus can get fat. \n - Degus can feel happiness. \n - Add Degu's Grace effect.",
     "1.4.1": "- Add translation 繁體中文（台灣）",
     "1.4.0": "- Add black & white colors. \n - Add fall resistance \n - Avoid fighting \n - Fix degu doesn't stop dancing in Client"
   },
   "1.20": {
+    "1.6.2": "- Spawn balance can now be tuned via config/vanilla_degus/spawn.json. \n - Degus can be tamed, fed, and healed with dry grass and dead bush. \n - Degus can eat a wider variety of plant-based foods. \n - Offspring can inherit a mix of their parents' collar colors. \n - Added more music discs degus can dance to. \n - Various fixes and adjustments.",
     "1.5.1": "- Supported Domestication Innovation.",
     "1.5.0": "- Degus can get fat. \n - Degus can feel happiness. \n - Add Degu's Grace effect.",
     "1.4.1": "- Add translation 繁體中文（台灣）",
@@ -58,6 +93,32 @@
     "1.0.0": " - First release."
   },
   "promos": {
+    "26.2-latest": "1.7.0",
+    "26.2-recommended": "1.7.0",
+    "26.1-latest": "1.7.0",
+    "26.1-recommended": "1.7.0",
+    "1.21.11-latest": "1.6.2",
+    "1.21.11-recommended": "1.6.2",
+    "1.21.9-latest": "1.5.3",
+    "1.21.9-recommended": "1.5.3",
+    "1.21.6-latest": "1.5.3",
+    "1.21.6-recommended": "1.5.3",
+    "1.21.5-latest": "1.5.3",
+    "1.21.5-recommended": "1.5.3",
+    "1.21.4-latest": "1.5.2",
+    "1.21.4-recommended": "1.5.2",
+    "1.21.3-latest": "1.5.2",
+    "1.21.3-recommended": "1.5.2",
+    "1.21-latest": "1.5.2",
+    "1.21-recommended": "1.5.2",
+    "1.20.6-latest": "1.5.2",
+    "1.20.6-recommended": "1.5.2",
+    "1.20.4-latest": "1.5.2",
+    "1.20.4-recommended": "1.5.2",
+    "1.20.1-latest": "1.6.2",
+    "1.20.1-recommended": "1.6.2",
+    "1.20-latest": "1.6.2",
+    "1.20-recommended": "1.6.2",
     "1.18.2-latest": "1.3.0",
     "1.18.2-recommended": "1.3.0",
     "1.18.1-latest": "1.3.0",
