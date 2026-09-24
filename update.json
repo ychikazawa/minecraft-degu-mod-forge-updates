@@ -1,5 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/vanilla-degus",
+  "26.3": {
+    "1.7.0": "- Baby degus! Breeding now produces adorable baby degus with their own model and textures."
+  },
   "26.2": {
     "1.7.0": "- Baby degus! Breeding now produces adorable baby degus with their own model and textures.",
     "1.6.2": "- Spawn balance can now be tuned via config/vanilla_degus/spawn.json. \n - Degus can be tamed, fed, and healed with dry grass and dead bush. \n - Degus can eat a wider variety of plant-based foods. \n - Offspring can inherit a mix of their parents' collar colors. \n - Added more music discs degus can dance to. \n - Various fixes and adjustments."
@@ -93,6 +96,8 @@
     "1.0.0": " - First release."
   },
   "promos": {
+    "26.3-latest": "1.7.0",
+    "26.3-recommended": "1.7.0",
     "26.2-latest": "1.7.0",
     "26.2-recommended": "1.7.0",
     "26.1-latest": "1.7.0",
